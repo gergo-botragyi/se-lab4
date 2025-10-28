@@ -1,0 +1,2 @@
+SUCCESS #gt5400 inicializalasa
+FAIL #torpedo store fail

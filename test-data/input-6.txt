@@ -1,0 +1,4 @@
+#GT4500 mindkét tárolójából torpedó kilövése SINGLE módban egymás után
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
