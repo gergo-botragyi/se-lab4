@@ -1,0 +1,3 @@
+SUCCESS #gt4500 inicializalasa
+SUCCESS #első single fire
+FAIL #második single fire
