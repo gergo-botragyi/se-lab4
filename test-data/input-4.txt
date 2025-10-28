@@ -1,0 +1,3 @@
+#GT4500 tárolója hibát ad de legalább egy torpedó ki lett lőve
+GT4500,1,0,1,1
+TORPEDO,ALL

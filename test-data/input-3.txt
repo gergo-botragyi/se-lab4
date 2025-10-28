@@ -1,0 +1,3 @@
+#GT4500 torpedó tárolója hibát ad
+GT4500,1,1,0,0
+TORPEDO,SINGLE
